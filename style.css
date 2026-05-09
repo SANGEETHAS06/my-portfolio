@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2d89ef;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #2d89ef;
+}
+
+.skills span {
+    display: inline-block;
+    background-color: #2d89ef;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background: #ddd;
+}
